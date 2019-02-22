@@ -170,7 +170,7 @@ Will produce a list of the names shown on webpage the following way
 
 /*
 Modules are also supported in es2015, much like we know it from node.
-This allows us to import other files into our program, thus splitting the files up for less clutter,
+This allows us to import other files, thus logic, into our program, and splitting the files up for less clutter,
 and allowing files to "access" eachother. 
 */
 //------ lib.js ------
