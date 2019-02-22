@@ -171,7 +171,7 @@ Will produce a list of the names shown on webpage the following way
 /*
 Modules are also supported in es2015, much like we know it from node.
 This allows us to import other files, thus logic, into our program, and splitting the files up for less clutter,
-and allowing files to "access" eachother. 
+and allowing files to "access" eachother, if we add the export keyword with the things we want to share. 
 */
 //------ lib.js ------
 const sqrt = Math.sqrt;
